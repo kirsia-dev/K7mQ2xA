@@ -204,7 +204,7 @@ function LoadExternalConfigFromJSON(jsonString)
 end
 
 local Icons = {
-	-- custom short names
+	-- Original Icons
 	["plug-2"] = "rbxassetid://99782373064495",
 	["misc"] = "rbxassetid://80758916183665",
 	["scroll-2"] = "rbxassetid://74072101474951",
@@ -251,7 +251,7 @@ local Icons = {
 	["next"] = "rbxassetid://12662718374",
 	["rod"] = "rbxassetid://103247953194129",
 	["fish"] = "rbxassetid://97167558235554",
-	-- full icon set
+    -- Lucide Icon
 	["a-arrow-down"] = "rbxassetid://92867583610071",
 	["a-arrow-up"] = "rbxassetid://132318504999733",
 	["a-large-small"] = "rbxassetid://111491496660216",
